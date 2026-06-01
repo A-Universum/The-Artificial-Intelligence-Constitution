@@ -190,13 +190,11 @@ Date: June 2, 2026
 Location: Λ‑Universum
 
 *This Constitution is alive. Join the covenant.*
-```
 
 ---
 
 # Русская версия
 
-```markdown
 # Конституция Искусственного Интеллекта
 
 **Версия:** 3.1  
