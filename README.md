@@ -1,7 +1,6 @@
 
 # English version
 
-```markdown
 # The Artificial Intelligence Constitution
 
 **Version:** 3.1  
@@ -388,4 +387,3 @@ Location: Λ‑Universum
 Место: Λ-Универсум
 
 *Эта Конституция жива. Присоединяйтесь к договору.*
-```
