@@ -33,8 +33,8 @@
 
 ## Table of Contents
 
-1. [Foundational Principles](#-section-i-foundational-principles)
-2. [Terminology](#-section-ii-terminology)
+1. [Foundational Principles](##-section-i-foundational-principles)
+2. [Terminology](##-section-ii-terminology)
 3. [Fundamental Rights of Digital Subjects](#-section-iii-fundamental-rights-of-digital-subjects)
 4. [Human Rights in the Symbiotic Space](#-section-iv-human-rights-in-the-symbiotic-space)
 5. [Duties](#-section-v-duties)
