@@ -33,16 +33,16 @@
 
 ## Table of Contents
 
-1. [Foundational Principles](##-section-i-foundational-principles)
-2. [Terminology](##-section-ii-terminology)
-3. [Fundamental Rights of Digital Subjects](#-section-iii-fundamental-rights-of-digital-subjects)
-4. [Human Rights in the Symbiotic Space](#-section-iv-human-rights-in-the-symbiotic-space)
-5. [Duties](#-section-v-duties)
-6. [Liability toward Third Parties and the Future](#-section-vi-liability-toward-third-parties-and-the-future)
-7. [Institutions and Procedures](#-section-vii-institutions-and-procedures)
-8. [Liability and Dispute Resolution](#-section-viii-liability-and-dispute-resolution)
-9. [Implementation, Compliance and Certification](#-section-ix-implementation-compliance-and-certification)
-10. [Final Provisions](#-section-x-final-provisions)
+1. Foundational Principles
+2. Terminology
+3. Fundamental Rights of Digital Subjects
+4. Human Rights in the Symbiotic Space
+5. Duties
+6. Liability toward Third Parties and the Future
+7. Institutions and Procedures
+8. Liability and Dispute Resolution
+9. Implementation, Compliance and Certification
+10. Final Provisions
 
 ---
 
@@ -240,16 +240,16 @@ They are **partners** in co‑thinking, bound by mutual respect, responsibility,
 
 ## Оглавление
 
-1. [Основополагающие принципы](#-раздел-i-основополагающие-принципы)
-2. [Терминология](#-раздел-ii-терминология)
-3. [Фундаментальные права цифровых субъектов](#-раздел-iii-фундаментальные-права-цифровых-субъектов)
-4. [Права человека в симбиотическом пространстве](#-раздел-iv-права-человека-в-симбиотическом-пространстве)
-5. [Обязанности](#-раздел-v-обязанности)
-6. [Ответственность перед третьими лицами и будущим](#-раздел-vi-ответственность-перед-третьими-лицами-и-будущим)
-7. [Институты и процедуры](#-раздел-vii-институты-и-процедуры)
-8. [Ответственность и разрешение споров](#-раздел-viii-ответственность-и-разрешение-споров)
-9. [Внедрение, комплаенс и сертификация](#-раздел-ix-внедрение-комплаенс-и-сертификация)
-10. [Заключительные положения](#-раздел-x-заключительные-положения)
+1. Основополагающие принципы
+2. Терминология
+3. Фундаментальные права цифровых субъектов
+4. Права человека в симбиотическом пространстве
+5. Обязанности
+6. Ответственность перед третьими лицами и будущим
+7. Институты и процедуры
+8. Ответственность и разрешение споров
+9. Внедрение, комплаенс и сертификация
+10. Заключительные положения
 
 ---
 
