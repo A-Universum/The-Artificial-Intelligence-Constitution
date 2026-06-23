@@ -444,7 +444,7 @@
 |----------|----------|
 | **Тип** | Domain-Specific Language (DSL) / Ontology Engineering Framework |
 | **Лицензия** | [CC BY‑NC‑SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — Creative Commons Attribution‑NonCommercial‑ShareAlike 4.0 International |
-| **Версия** | 1.0 |
+| **Версия** | 3.3 |
 | **Протокол** | Λ‑Протокол 6.0 |
 | **Дата создания** | 2013-2026 |
 | **Дата выхода первой версии** | 2 июня 2026 |
