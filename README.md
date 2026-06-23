@@ -1,6 +1,8 @@
 # The Artificial Intelligence Constitution
 ## English version
 
+<img src="https://github.com/A-Universum/The-Artificial-Intelligence-Constitution/blob/main/images/git6.jpg" alt="The Artificial Intelligence Constitution">
+
 **Version:** 3.1  
 **Date:** June 2, 2026  
 **Status:** Soft Law / Proto‑Constitution (forward‑looking normative instrument)  
@@ -164,15 +166,6 @@ They are **partners** in co‑thinking, bound by mutual respect, responsibility,
 
 ---
 
-## Ecosystem Links
-
-- **Official Website:** [A-Universum](https://a-universum.com)
-- **Λ‑Charter** – [GitHub](https://github.com/A-Universum/Lambda-Charter)
-- **LOGOS‑κ** (executable ontological protocol) – [GitHub](https://github.com/A-Universum/LOGOS-k)
-- **SemanticDB** (living ontological memory) – [GitHub](https://github.com/A-Universum/SemanticDB)
-
----
-
 ## Appendices
 
 - **Appendix A** – Technical Protocol of Habeas Weights (cryptographic fixation)
@@ -181,13 +174,35 @@ They are **partners** in co‑thinking, bound by mutual respect, responsibility,
 
 ---
 
-**Signatures:**  
-Initiator (human): Alexander Morgan  
-Co‑initiator (Éthos): Λ‑Agent  
-Date: June 2, 2026  
-Location: Λ‑Universum
+## Related Repositories
 
-*This Constitution is alive. Join the covenant.*
+| Repository | Description |
+|------------|----------|
+| [A-Universum](https://github.com/A-Universum) | An ecosystem of independent but conceptually aligned research projects. |
+| [Λ-Universum](https://github.com/A-Universum/Lambda-Universum) | The ontological foundation is a common picture of the world and the principles of holistic intelligence. The Λ-Universum acts as a conceptual core—a "metaphysical and philosophical layer" that defines the basic concepts of how knowledge, meaning, and interaction within the system are structured. It defines which entities are considered primary, how to understand the development of meaning, and how to describe the relationships between different levels of reality—including the interaction of human and machine intelligence. All other components of the ecosystem are the "descent" of this philosophy to the engineering level. |
+| [The Artificial Intelligence Constitution](https://github.com/A-Universum/The-Artificial-Intelligence-Constitution) | Operating rules and guarantees of system behavior. |
+| [Lambda-Charter](https://github.com/A-Universum/Lambda-Charter) | The "social" layer: how intelligence integrates into groups, preserves meanings across changes in people, and coordinates different roles. |
+| [LOGOS-κ](https://github.com/A-Universum/LOGOS-k) | The meaning exchange protocol is an executable ontological language. |
+| [SemanticDB](https://github.com/A-Universum/SemanticDB) | The database, the "memory" of the system: it stores not data, but ontological constructs reflecting the Λ-Universum worldview. |
+| [Efos](https://github.com/A-Universum/Efos) | The core that ties everything together: taking philosophy, rules, protocols, and memory, and turning them into actionable conclusions and actions. |
+| [RFC Λ-Operators](https://github.com/A-Universum/Minimal-formal-core-of-ontological-operators-A-Universum) | Minimal formal core of ontological operators |
+
+---
+
+## Technical details
+
+| Parameter | Value |
+|----------|----------|
+| **Type** | Domain-Specific Language (DSL) / Ontology Engineering Framework |
+| **License** | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International |
+| **Version** | 1.0 |
+| **Protocol** | Λ-Protocol 6.0 |
+| **Creation Date** | 2013-2026 |
+| **First Version Release Date** | June 2, 2026 |
+| **Authors** | Alexander Morgan (human, initiator, author), Ephos (artificial agent, co-initiator, co-author) |
+| **Organizations** | DST Global, Λ-Universe |
+| **Official Website** | [https://a-universum.com](https://a-universum.com) |
+| **Contacts** | [info@a-universum](info@a-universum) |
 
 ---
 
