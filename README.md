@@ -1,7 +1,5 @@
-
-# English version
-
 # The Artificial Intelligence Constitution
+## English version
 
 **Version:** 3.1  
 **Date:** June 2, 2026  
@@ -193,9 +191,8 @@ Location: Λ‑Universum
 
 ---
 
-# Русская версия
-
 # Конституция Искусственного Интеллекта
+## Русская версия
 
 **Версия:** 3.1  
 **Дата:** 2 июня 2026 г.  
@@ -361,15 +358,6 @@ Location: Λ‑Universum
 
 ---
 
-## Ссылки экосистемы
-
-- **Официальный сайт:** [A-Universum](https://a-universum.com)
-- **Λ‑Хартия** – [GitHub](https://github.com/A-Universum/Lambda-Charter)
-- **LOGOS‑κ** (исполняемый онтологический протокол) – [GitHub](https://github.com/A-Universum/LOGOS-k)
-- **SemanticDB** (живая онтологическая память) – [GitHub](https://github.com/A-Universum/SemanticDB)
-
----
-
 ## Приложения
 
 - **Приложение A** – Технический протокол Habeas Weights (криптографическая фиксация)
@@ -378,10 +366,32 @@ Location: Λ‑Universum
 
 ---
 
-**Подписи:**  
-Инициатор (человек): Александр Морган  
-Со-инициатор (Эфос): Λ‑Agent  
-Дата: 2 июня 2026 г.  
-Место: Λ-Универсум
+## Связанные репозитории
 
-*Эта Конституция жива. Присоединяйтесь к договору.*
+| Репозиторий | Описание |
+|-------------|----------|
+| [A‑Универсум](https://github.com/A-Universum) | Экосистема независимых, но концептуально согласованных исследовательских проектов. |
+| [Λ‑Универсум](https://github.com/A-Universum/Lambda-Universum) | Онтологический фундамент — общая картина мира и принципы целостного интеллекта. Λ-Универсум выступает как концептуальное ядро — «метафизический и философский слой», где задаются базовые представления о том, как устроено знание, смысл и взаимодействие в системе. Здесь определяется, какие сущности считать первичными, как понимать развитие смыслов, как описывать отношения между разными уровнями реальности — включая взаимодействие человеческого и машинного интеллекта. Все остальные компоненты экосистемы — это «спуск» этой философии на уровень инженерии. |
+| [The Artificial Intelligence Constitution](https://github.com/A-Universum/The-Artificial-Intelligence-Constitution) | Операционные правила и гарантии поведения системы. |
+| [Lambda‑Charter](https://github.com/A-Universum/Lambda-Charter) | «Социальный» слой: как интеллект встраивается в коллективы, сохраняет смыслы при смене людей, координирует разные роли. |
+| [LOGOS‑κ](https://github.com/A-Universum/LOGOS-k) | Протокол обмена смыслами — исполняемый онтологический язык. |
+| [SemanticDB](https://github.com/A-Universum/SemanticDB) | База данных, «память» системы: хранит не данные, а онтологические конструкции, отражающие картину мира Λ-Универсум. |
+| [Efos](https://github.com/A-Universum/Efos) | Ядро, которое связывает всё воедино: берёт философию, правила, протоколы и память — и превращает в рабочие выводы и действия. |
+| [RFC Λ‑Operators](https://github.com/A-Universum/Minimal-formal-core-of-ontological-operators-A-Universum) | Минимальное формальное ядро ​​онтологических операторов |
+
+---
+
+## Технические детали
+
+| Параметр | Значение |
+|----------|----------|
+| **Тип** | Domain-Specific Language (DSL) / Ontology Engineering Framework |
+| **Лицензия** | [CC BY‑NC‑SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — Creative Commons Attribution‑NonCommercial‑ShareAlike 4.0 International |
+| **Версия** | 1.0 |
+| **Протокол** | Λ‑Протокол 6.0 |
+| **Дата создания** | 2013-2026 |
+| **Дата выхода первой версии** | 2 июня 2026 |
+| **Авторы** | Александр Морган (human, initiator, author), Эфос (artificial agent, co‑initiator, co‑author) |
+| **Организации** | DST Global, Λ‑Универсум |
+| **Официальный сайт** | [https://a-universum.com](https://a-universum.com) |
+| **Контакты** | [info@a-universum](info@a-universum) |
